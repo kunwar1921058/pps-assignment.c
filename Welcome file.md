@@ -143,10 +143,39 @@ Your roll no is 1921058
 My phone number is 9988988833
  My age is 18
  ```
+## 5:To show area,perimeter,volume of square
+```
+   
+ //Area,premiter,volume of square
+  #include<stdio.h>
+void square();
+int main()
+{     
+ square();
+ return 0;
+}                                    
+void square()
+{
+ int side;
+ printf("Enter the side of square:");
+ scanf("%d",&side);
 
+ printf("\nPerimeter of square:%d",4*side);
+ printf("\nArea of square:%d",side*side);
+ printf("\nVolume of square:%d\n",side*side*side);
+}
+```
+**OUTPUT**:
+```
+Enter the side of square:4
+
+Perimeter of square:16
+Area of square:16
+Volume of square:64
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1NTg3OTAsLTUxNjczOTY0OCwtMz
-YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
-OTI5XX0=
+eyJoaXN0b3J5IjpbMTExNjgxMzYwNCwtNTE2NzM5NjQ4LC0zNj
+IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
+MjldfQ==
 -->
