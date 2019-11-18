@@ -175,9 +175,11 @@ Area of square:16
 Volume of square:64
 ```
 ## 6:To print a table
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjAzMzkxOSwtMTE1ODM5NDgwMSwtMT
-c5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2
-ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTEzNDU5NjgwODEsLTExNTgzOTQ4MDEsLT
+E3OTcyNTcyNDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2
+Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
 -->
