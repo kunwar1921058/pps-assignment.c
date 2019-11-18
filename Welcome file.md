@@ -509,7 +509,34 @@ return 0;
 Enter the factorial of:5
 5 X 4 X 3 X 2 X 1 X = 120
 ```
-
+## 7:To show puts value upto n number using loop
+```
+// to show punishment using loop
+ #include<stdio.h>
+ int main()
+ {
+ int i,a;
+ printf("Enter the number upto punishment is shown:");
+ scanf("%d",&a);
+  for(i=1;i<=a;i++)
+puts("WORK HARD AND ACHIEVE SUCCESS ");
+return 0;
+}
+```
+**OUTPUT**:
+```
+Enter the number upto punishment is shown:10
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS
+```
 
 
 
@@ -517,8 +544,9 @@ Enter the factorial of:5
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM2Njc0MjcsMTc1NTc1NjIzOCw4Mz
-kxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgw
-MSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLT
-E5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE4NTM5NjkxNjEsLTExNTM2Njc0MjcsMT
+c1NTc1NjIzOCw4MzkxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAy
+NSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC
+0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3
+NDk5MjldfQ==
 -->
