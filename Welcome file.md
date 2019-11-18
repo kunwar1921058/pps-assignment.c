@@ -369,12 +369,32 @@ Sum of a and b is :220
 ```
 ## 13:To check wheather no is positive or not
 ```
+#include<stdio.h>
+int main()
+{
+int a;
+printf("enter any number =");
+scanf("%d",&a);
+if(a>0)
+{
+printf("the number is positive\n");
+}
+else
+{
+printf("the number is negative\n");
+}
+return 0;
+}
+```
+**OUTPUT:**
+```
+
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTU0MzgyNiw4MzkxMDQ4NSw1NzI3ND
-Y4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0
-NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMT
-QzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbNTk4Mjk2MjUwLDgzOTEwNDg1LDU3Mjc0Nj
+gwMywxNjg4NzMzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1
+LC01MTY3Mzk2NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxND
+MzODAwOTI4LDcwMzc0OTkyOV19
 -->
