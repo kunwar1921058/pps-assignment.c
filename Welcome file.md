@@ -312,11 +312,47 @@ The area of rectangle is:12
 The volume is :48
 ```
 
+## 11: To show result of operands
+```
+//To show results using operands(+,-,*,%,/)
+#include<stdio.h>
+int main()
+{
+float a,b;
+ char c;
+printf("enter first  number:");
+scanf("%f",&a);
+printf("enter operator[+ - % / *]:");
+scanf(" %c",&c);
+printf("enter second number:");
+scanf("%f",&b);
+int d,r;
+d=(int) a;
+r=(int) b;
+switch(c)
+{
+case '+': printf("The result is:%.2f\n",a+b); break;
+case '-':printf("The result is:%.2f\n",a-b); break;
+case '*':printf("The result is:%.2f\n",a*b); break;
+case '%':printf("The result is:%d\n",d%r); break;
+case '/':printf("The result is:%.2f\n",a/b); break;
+default : printf("Enter correct operator ");
+}
+return 0;
+}
+```
 
+**OUTPUT**:
+```
+enter first  number:20
+enter operator[+ - % / *]: *
+enter second number:10
+The result is:200.00
+```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ0MzAwMjksNTcyNzQ2ODAzLDE2OD
-g3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjcz
-OTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5Mj
-gsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbMjAxODQ0NzgyNSw1NzI3NDY4MDMsMTY4OD
+czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
+NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
+w3MDM3NDk5MjldfQ==
 -->
