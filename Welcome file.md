@@ -394,14 +394,41 @@ the number is positive
 ```
 ## 14:To print calculator
 ```
-
+#include<stdio.h>
+void main()
+{
+puts("\n\
+_________________\n\
+| 1 | 2 | 3 |   |\n\
+|___|___|___|   |\n\
+| 4 | 5 | 6 | + |\n\
+|___|___|___|___|\n\
+| 7 | 8 | 9 | - |\n\
+|___|___|___|___|\n\
+|     0     | * |\n\
+|___________|___|\n");
+}
+```
+**OUTPUT:**
+```
+_________________
+| 1 | 2 | 3 |   |
+|___|___|___|   |
+| 4 | 5 | 6 | + |
+|___|___|___|___|
+| 7 | 8 | 9 | - |
+|___|___|___|___|
+|     0     | * |
+|___________|___|
+```
+##
 
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE4MjEzMDksODM5MTA0ODUsNTcyNz
-Q2ODAzLDE2ODg3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcy
-NDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLD
-E0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbNTUzMjY4NTIyLDgzOTEwNDg1LDU3Mjc0Nj
+gwMywxNjg4NzMzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1
+LC01MTY3Mzk2NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxND
+MzODAwOTI4LDcwMzc0OTkyOV19
 -->
