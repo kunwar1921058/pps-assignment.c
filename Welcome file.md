@@ -537,7 +537,34 @@ RISKING IS BETTER THEN REGRATTING
 RISKING IS BETTER THEN REGRATTING
 RISKING IS BETTER THEN REGRATTING
 ```
-## 
+## 18:To find interest
+```
+#include<stdio.h>
+int main()
+{
+      float P,R,T,Interest;
+{
+      printf("\nEnter The Principle Amount:  ");
+      scanf("%f",&R);
+
+
+      printf("\nEnter The Interest Rate:  ");
+      scanf("%f",&R);
+
+      printf("\nEnter THe Time (in months):  ");
+      scanf("%f",&T);
+
+      Interest = P*R*T/100;
+
+      printf("\nSimple Interest is: = %.2f", Interest);
+
+}
+      return 0;
+}
+```
+**OUTPUT:**
+```
+
 
 
 
@@ -547,9 +574,9 @@ RISKING IS BETTER THEN REGRATTING
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyODc3MDU5LC0xMTUzNjY3NDI3LDE3NT
-U3NTYyMzgsODM5MTA0ODUsNTcyNzQ2ODAzLDE2ODg3MzMwMjUs
-LTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjczOTY0OCwtMz
-YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
-OTI5XX0=
+eyJoaXN0b3J5IjpbNzgxNDMwODMsLTExNTM2Njc0MjcsMTc1NT
+c1NjIzOCw4MzkxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwt
+MTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNj
+IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
+MjldfQ==
 -->
