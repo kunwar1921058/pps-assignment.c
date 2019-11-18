@@ -6,8 +6,23 @@
 
 
 # My C programes
-## 1
+## 1:To print a table
+#include<stdio.h>
+int main()
+{
+int a,b,c,d;
+printf("enter the starting no. and ending no. ");
+scanf("%d %d",&a,&b);
+for(c=a;c<=b;c++)
+{
+for(d=1;d<=10;d++)
+{
+printf("\n %d x %d=%d",c,d,c*d);
+}
+}
+return 0;
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MDc0Njg1LDE0MzM4MDA5MjgsNzAzNz
-Q5OTI5XX0=
+eyJoaXN0b3J5IjpbLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MD
+M3NDk5MjldfQ==
 -->
