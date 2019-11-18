@@ -421,9 +421,71 @@ _________________
 |     0     | * |
 |___________|___|
 ```
-## 15
+## 15:To show stars pattern
 ```
-**OUTPUT:**
+ // TO show stars using loop 
+#include<stdio.h>
+int main()
+{ int i,j,k;
+ printf("Enter the no. to show pattern:");
+ scanf("%d",&k);
+ 
+  for(i=k;i>=1;i--)
+ {
+  for(j=i;j>=1;j--)
+ {
+  printf("* ");
+ }
+ printf("\n");
+ }
+ return 0;
+ }
+ ```
+ **OUTPUT**:
+ ```
+ Enter the no. to show pattern:8
+* * * * * * * * 
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+```
+ ## 16:To show stars pattern 
+ ```
+ //to show star pattern for n numbers
+#include<stdio.h>
+int main()
+{
+ int i,j,k;
+ printf("Enter the value upto pattern is shown:");
+ scanf("%d",&k);
+
+ for(i=1;i<=k;i++)
+{
+  for(j=1;j<=i;j++)
+{
+  printf("* ");
+ }
+ printf("\n");
+ }
+ return 0;
+}
+```
+**OUTPUT**:
+```
+Enter the value upto pattern is shown:8
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * * 
+```
 
 
 
@@ -431,8 +493,8 @@ _________________
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM2NTIzODksMTc1NTc1NjIzOCw4Mz
-kxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgw
-MSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLT
-E5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbMTM4MDUzOTMyNywxNzU1NzU2MjM4LDgzOT
+EwNDg1LDU3Mjc0NjgwMywxNjg4NzMzMDI1LC0xMTU4Mzk0ODAx
+LC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3ODc0MiwtMT
+k2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
 -->
