@@ -453,13 +453,21 @@ case '/':
 printf("%f",a/b);
 break;
 default:
+printf("you entered wrong oprand");
+}
+return 0;
+}
+```
+**OUTPUT:**
+```
+
 
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc3NDQzMDYsODM5MTA0ODUsNTcyNz
-Q2ODAzLDE2ODg3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcy
-NDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLD
-E0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbMTc1NTc1NjIzOCw4MzkxMDQ4NSw1NzI3ND
+Y4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0
+NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMT
+QzMzgwMDkyOCw3MDM3NDk5MjldfQ==
 -->
