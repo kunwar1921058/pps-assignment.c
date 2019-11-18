@@ -194,10 +194,37 @@ return 0;
 ```
 **OUTPUT:**
 ```
+enter the starting no. and ending no. 8 10
 
+ 8 x 1=8
+ 8 x 7=56
+ 8 x 8=64
+ 8 x 9=72
+ 8 x 10=80
+ 9 x 1=9
+ 9 x 2=18
+ 9 x 3=27
+ 9 x 4=36
+ 9 x 5=45
+ 9 x 6=54
+ 9 x 7=63
+ 9 x 8=72
+ 9 x 9=81
+ 9 x 10=90
+ 10 x 1=10
+ 10 x 2=20
+ 10 x 3=30
+ 10 x 4=40
+ 10 x 5=50
+ 10 x 6=60
+ 10 x 7=70
+ 10 x 8=80
+ 10 x 9=90
+ 10 x 10=100
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMT
-c5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2
-ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTIwMDEwMTA3NiwxNjg4NzMzMDI1LC0xMT
+U4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3
+ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV
+19
 -->
