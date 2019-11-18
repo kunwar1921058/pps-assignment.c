@@ -349,9 +349,11 @@ enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
 ```
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODQ0NzgyNSw1NzI3NDY4MDMsMTY4OD
+eyJoaXN0b3J5IjpbMTg0NDk1NjY2MSw1NzI3NDY4MDMsMTY4OD
 czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
 NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
 w3MDM3NDk5MjldfQ==
