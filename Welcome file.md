@@ -392,12 +392,15 @@ enter any number =16
 
 the number is positive
 ```
-## 14
+## 14:To print calculator
+```
+
+
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY4MDY1MTMsODM5MTA0ODUsNTcyNz
+eyJoaXN0b3J5IjpbLTIwMTE4MjEzMDksODM5MTA0ODUsNTcyNz
 Q2ODAzLDE2ODg3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcy
 NDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLD
 E0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
