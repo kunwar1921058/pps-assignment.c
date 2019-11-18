@@ -240,10 +240,21 @@ The sum is:15
 The average is:3
 ```
 ## 7:To convert fahrenheit to centigrade
+```
+#include<stdio.h>
+int main()
+{
+float  c,f;
+printf("Enter The Fahrenheit Value ");
+scanf("%f",&f);
+c=(f-32)*5/9;
+printf("Temprature in Centigrade=%f",c);
+return 0;
+}
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTg2MTkwNyw1NzI3NDY4MDMsMTY4OD
-czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
-NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
-w3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE2NTY4MTAwNTMsNTcyNzQ2ODAzLDE2OD
+g3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjcz
+OTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5Mj
+gsNzAzNzQ5OTI5XX0=
 -->
