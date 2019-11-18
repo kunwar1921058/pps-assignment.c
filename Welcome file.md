@@ -486,6 +486,30 @@ Enter the value upto pattern is shown:8
 * * * * * * * 
 * * * * * * * * 
 ```
+ ## 17:To show factorial result
+ ```
+ //To show factorial of user input
+#include<stdio.h>
+int main()
+{
+ int a,result=1;
+ printf("Enter the factorial of:");
+ scanf("%d",&a);
+ for(int i=a;i>=1;i--)
+{
+printf("%d X ",i);
+result=result*i;
+}
+printf("= %d\n",result);
+return 0;
+}
+```
+**OUTPUT**:
+```
+Enter the factorial of:5
+5 X 4 X 3 X 2 X 1 X = 120
+```
+
 
 
 
@@ -493,8 +517,8 @@ Enter the value upto pattern is shown:8
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDUzOTMyNywxNzU1NzU2MjM4LDgzOT
-EwNDg1LDU3Mjc0NjgwMywxNjg4NzMzMDI1LC0xMTU4Mzk0ODAx
-LC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3ODc0MiwtMT
-k2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
+eyJoaXN0b3J5IjpbLTExNTM2Njc0MjcsMTc1NTc1NjIzOCw4Mz
+kxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgw
+MSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLT
+E5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
 -->
