@@ -423,51 +423,16 @@ _________________
 ```
 ## 15
 ```
-#include<stdio.h>
-int main()
-{
-float a,b;
-char c;
-printf("enter two numbers:");
-scanf("%f %f",&a,&b);
-printf("enter the operator to perform (+,-,*,%,/)=");
-scanf(" %c",&c);
-int d,r;
-d=(int)a;
-r=(int)b;
-switch(c)
-{
-case '+':
-printf("%f",a+b);
-break;
-case '-':
-printf("%f",a-b);
-break;
-case '%':
-printf("%d",d%r);
-break;
-case '*':
-printf("%f",a*b);
-break;
-case '/':
-printf("%f",a/b);
-break;
-default:
-printf("you entered wrong oprand");
-}
-return 0;
-}
-```
 **OUTPUT:**
-```
+
 
 
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTc1NjIzOCw4MzkxMDQ4NSw1NzI3ND
-Y4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0
-NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMT
-QzMzgwMDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE0ODM2NTIzODksMTc1NTc1NjIzOCw4Mz
+kxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwtMTE1ODM5NDgw
+MSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLT
+E5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
 -->
