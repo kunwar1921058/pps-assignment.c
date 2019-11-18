@@ -132,20 +132,21 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 Enter your information:
 Name = kunwar
 
-Roll no=10
+Roll no=1921058
 
-Age = 25
+Age = 18
 
-Phone no.= 9922115566
+Phone no.= 9988988833
 
-The name is Jony
-Your roll no is 100012
-My phone number is 9922115566
- My age is 25
+The name is kunwar
+Your roll no is 1921058
+My phone number is 9988988833
+ My age is 18
  ```
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTY2MTQyOSwtNTE2NzM5NjQ4LC0zNj
-IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk1NTg3OTAsLTUxNjczOTY0OCwtMz
+YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
+OTI5XX0=
 -->
