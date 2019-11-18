@@ -84,8 +84,20 @@ puts("       KUNWAR ARORA");
 ```
 **OUTPUT:**
 ```
-
+ GURU NANAK DEV ENGINEERING COLLEGE
+DEPARTMENT OF INFORMATION TECHNOLOGY
+___________________________
+|    xxxxxxxxxxxxxxx      |
+|      (   ^     ^   )      |
+|      (   0     0   )      |
+|       \     |     /       |
+|        \    =    /        |
+|         \_______/         |
+|              |            |
+|____________|____________|
+       KUNWAR ARORA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOT
-Y2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbLTEwNTQ3MDkxODUsLTUxNjczOTY0OCwtMz
+YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
+OTI5XX0=
 -->
