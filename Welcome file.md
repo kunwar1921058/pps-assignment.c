@@ -173,9 +173,10 @@ Perimeter of square:16
 Area of square:16
 Volume of square:64
 ```
+## 6:To print a table
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjgxMzYwNCwtNTE2NzM5NjQ4LC0zNj
-IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE3OTcyNTcyNDUsLTUxNjczOTY0OCwtMz
+YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
+OTI5XX0=
 -->
