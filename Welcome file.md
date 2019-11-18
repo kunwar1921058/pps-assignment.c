@@ -97,10 +97,55 @@ ___________________________
 |____________|____________|
        KUNWAR ARORA
 ```
+## 4:To fill your information
 
+```
+  // To fill your information
+#include<stdio.h>
+
+  void info();
+  int main()
+  {
+     info();
+  }
+
+   void info()
+  {  char a[20];
+     int roll,age;
+     long int ph;
+   printf("\nEnter your information:\n");
+   printf("Name = ");
+    scanf("%s",a);
+  printf("\nRoll no=");
+scanf("%d",&roll);
+printf("\nAge = ");
+ scanf("%d",&age);
+ printf("\nPhone no.= ");
+ scanf("%ld",&ph);
+
+printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is %d\n",a,roll,ph,age);
+
+}
+```
+**OUTPUT:**
+```
+Enter your information:
+Name = kunwar
+
+Roll no=10
+
+Age = 25
+
+Phone no.= 9922115566
+
+The name is Jony
+Your roll no is 100012
+My phone number is 9922115566
+ My age is 25
+ ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjAyNTIxOSwtNTE2NzM5NjQ4LC0zNj
+eyJoaXN0b3J5IjpbMjA3NTY2MTQyOSwtNTE2NzM5NjQ4LC0zNj
 IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
 MjldfQ==
 -->
