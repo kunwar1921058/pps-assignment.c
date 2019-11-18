@@ -197,6 +197,7 @@ return 0;
 enter the starting no. and ending no. 8 10
 
  8 x 1=8
+ 8 x 2=
  8 x 7=56
  8 x 8=64
  8 x 9=72
@@ -223,8 +224,7 @@ enter the starting no. and ending no. 8 10
  10 x 10=100
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDEwMTA3NiwxNjg4NzMzMDI1LC0xMT
-U4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3
-ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV
-19
+eyJoaXN0b3J5IjpbOTU4Nzg4MywxNjg4NzMzMDI1LC0xMTU4Mz
+k0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3ODc0
+MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
 -->
