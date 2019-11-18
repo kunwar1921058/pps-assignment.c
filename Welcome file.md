@@ -282,11 +282,39 @@ The  number is even
 Enter a number:9
 The number is odd
 ```
+## 9:To find area and volume of rectangle
+```
+//find area and volume of rectangle
+#include<stdio.h>
+int main()
+{
+ int l,b,h;
+ printf("Enter length of rectangle:");
+ scanf("%d",&l);
+ printf("\nEnter breadth of rectangle:");
+ scanf("%d",&b);
+ printf("\nEnter height of rectangle:");
+ scanf("%d",&h);
+ printf("\nThe area of rectangle is:%d",l*b);
+ printf("\nThe volume is :%d\n",l*b*h);
+ return 0;
+ }
+ ```
+ **OUTPUT**:
+ ```
+ Enter length of rectangle:4 
 
+Enter breadth of rectangle:3 
+
+Enter height of rectangle:4
+
+The area of rectangle is:12
+The volume is :48
+```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MDg3NjgzLDU3Mjc0NjgwMywxNjg4Nz
-MzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2
-NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LD
-cwMzc0OTkyOV19
+eyJoaXN0b3J5IjpbLTExMjM2MzY4Nyw1NzI3NDY4MDMsMTY4OD
+czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
+NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
+w3MDM3NDk5MjldfQ==
 -->
