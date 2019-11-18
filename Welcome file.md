@@ -43,6 +43,7 @@ int main()
  Hello world
 ```
 ## 3:to print face
+```
 / / To print face
 #include<stdio.h>
 int a();
@@ -176,7 +177,7 @@ Volume of square:64
 ## 6:To print a table
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLT
-UxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4
-MDA5MjgsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbLTk2MjAzMzkxOSwtMTE1ODM5NDgwMSwtMT
+c5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2
+ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
 -->
