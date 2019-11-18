@@ -560,7 +560,75 @@ double:8
 short:2
 long:8
 ```
+## 20:Matrix multipication
+ ```
+#include<stdio.h>
+int main()
+{
+int sum=0,m,n,p,q,c,d,k;
+int first[10][10], second[10][10], multiply[10][10];
+// for matrix 1
+printf("Enter the number of rows and column of first matrix:\n");
+scanf("%d %d",&m,&n);
+printf("Enter elements of first matrix:\n");
 
+for(c=0;c<m;c++)
+ for(d=0;d<n;d++)
+  scanf("%d",&first[c][d]);
+// for second matrix
+printf("Enter the number of rows and columns of second matrix:\n");
+scanf("%d %d",&p,&q);
+
+if(n!=p){
+printf("matrix multipication cannot be possible !!!!\n");}
+
+else{
+printf("Enter the elements of second matrix:\n");
+for(c=0;c<p;c++)
+ for(d=0;d<q;d++)
+  scanf("%d",&second[c][d]);
+
+for(c=0;c<m;c++)
+{
+ for(d=0;d<q;d++)
+{
+  for(k=0;k<p;k++)
+{                             
+  sum = sum + first[c][k] * second[k][d];
+  }
+   multiply[c][d] = sum;
+ sum =0;
+}
+}
+
+  printf("product of the matrix:\n");
+  
+  for(c=0;c<m;c++)
+{
+  for(d=0;d<q;d++)
+   printf("%d\t",multiply[c][d]);
+   printf("\n");
+}
+}                             
+ return 0;
+ }
+ ```
+ **OUTPUT**:
+ ```
+ Enter the number of rows and column of first matrix:
+2 2
+Enter elements of first matrix:
+3 4
+5 6
+Enter the number of rows and columns of second matrix:
+2 2
+Enter the elements of second matrix:
+1 2
+3 4
+product of the matrix:
+15      22
+23      34
+```
 
 
 
@@ -569,9 +637,9 @@ long:8
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg2NzM2MDMsNzgxNDMwODMsLTExNT
-M2Njc0MjcsMTc1NTc1NjIzOCw4MzkxMDQ4NSw1NzI3NDY4MDMs
-MTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNT
-E2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgw
-MDkyOCw3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbMTgzMDM3NzIxOCw3ODE0MzA4MywtMTE1Mz
+Y2NzQyNywxNzU1NzU2MjM4LDgzOTEwNDg1LDU3Mjc0NjgwMywx
+Njg4NzMzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MT
+Y3Mzk2NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxNDMzODAw
+OTI4LDcwMzc0OTkyOV19
 -->
