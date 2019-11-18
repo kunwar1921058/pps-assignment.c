@@ -200,7 +200,8 @@ enter the starting no. and ending no. 8 9
  8 x 2=16
  8 x 3=24
  8 x 4=32
- 8 x 
+ 8 x 5=40
+ 8 x 6=48
  8 x 7=56
  8 x 8=64
  8 x 9=72
@@ -215,20 +216,12 @@ enter the starting no. and ending no. 8 9
  9 x 8=72
  9 x 9=81
  9 x 10=90
- 10 x 1=10
- 10 x 2=20
- 10 x 3=30
- 10 x 4=40
- 10 x 5=50
- 10 x 6=60
- 10 x 7=70
- 10 x 8=80
- 10 x 9=90
- 10 x 10=100
+ ```
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTgxNDYwNiwxNjg4NzMzMDI1LC0xMT
-U4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2NDgsLTM2MjI3
-ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV
-19
+eyJoaXN0b3J5IjpbLTE2NTg3NDIxODksMTY4ODczMzAyNSwtMT
+E1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIy
+Nzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5Mj
+ldfQ==
 -->
