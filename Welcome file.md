@@ -239,11 +239,11 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 ```
-
+## 7:To convert fahrenheit to centigrade
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNzQ2ODAzLDE2ODg3MzMwMjUsLTExNT
-gzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjczOTY0OCwtMzYyMjc4
-NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX
-0=
+eyJoaXN0b3J5IjpbMTQxMTg2MTkwNyw1NzI3NDY4MDMsMTY4OD
+czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
+NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
+w3MDM3NDk5MjldfQ==
 -->
