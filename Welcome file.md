@@ -42,8 +42,23 @@ int main()
 ``` 
  Hello world
 ```
-
+## 3:to print face
+int c()
+{
+puts("___________________________");
+puts("|    xxxxxxxxxxxxxxx      |");
+puts("|    (   ^     ^   )      |");
+puts("|    (   0     0   )      |");
+puts("|     \\     |     /       |");
+puts("|      \\    =    /        |");
+puts("|       \\_______/         |");
+puts("|            |            |");
+puts("|____________|____________|");
+}
+int d()
+{
+puts("       KUNWAR ARORA");
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxND
-MzODAwOTI4LDcwMzc0OTkyOV19
+eyJoaXN0b3J5IjpbLTExNjUwMjE2NzUsLTM2MjI3ODc0MiwtMT
+k2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
 -->
