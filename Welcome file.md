@@ -252,11 +252,17 @@ printf("Temprature in Centigrade=%f",c);
 return 0;
 }
 ```
+**OUTPUT:**
+```
+Enter The Fahrenheit Value 97
+
+Temprature in Centigrade=36.111111
+```
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDYzMjcwNyw1NzI3NDY4MDMsMTY4OD
-czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
-NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
-w3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbODE0ODAzNTMwLDU3Mjc0NjgwMywxNjg4Nz
+MzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2
+NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LD
+cwMzc0OTkyOV19
 -->
