@@ -350,10 +350,24 @@ enter second number:10
 The result is:200.00
 ```
 
-## 
+## 12:
+```
+#include<stdio.h>
+int main()                                                                       
+{
+   int a=100,b=120,c;
+   c = a+b;
+   printf("\na=100\na=120\nSum of a and b is :%d",c);
+   return 0;
+}
+```
+**OUTPUT:**
+```
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDgxNzYzLDU3Mjc0NjgwMywxNjg4Nz
+eyJoaXN0b3J5IjpbMTc2OTk1OTMzLDU3Mjc0NjgwMywxNjg4Nz
 MzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2
 NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LD
 cwMzc0OTkyOV19
