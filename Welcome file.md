@@ -239,7 +239,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 ```
-## 7:To convert fahrenheit to centigrade
+## 8:To convert fahrenheit to centigrade
 ```
 #include<stdio.h>
 int main()
@@ -258,7 +258,7 @@ Enter The Fahrenheit Value 97
 
 Temprature in Centigrade=36.111111
 ```
- ## 8:To find number is even or odd
+ ## 9:To find number is even or odd
   ```
        #include<stdio.h>
 int main()
@@ -282,7 +282,7 @@ The  number is even
 Enter a number:9
 The number is odd
 ```
-## 9:To find area and volume of rectangle
+## 10:To find area and volume of rectangle
 ```
 //find area and volume of rectangle
 #include<stdio.h>
@@ -311,10 +311,12 @@ Enter height of rectangle:4
 The area of rectangle is:12
 The volume is :48
 ```
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2MzY4Nyw1NzI3NDY4MDMsMTY4OD
-czMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5
-NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOC
-w3MDM3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ0MzAwMjksNTcyNzQ2ODAzLDE2OD
+g3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjcz
+OTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5Mj
+gsNzAzNzQ5OTI5XX0=
 -->
