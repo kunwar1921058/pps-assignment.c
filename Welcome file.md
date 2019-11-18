@@ -258,10 +258,34 @@ Enter The Fahrenheit Value 97
 
 Temprature in Centigrade=36.111111
 ```
+ ## 8:To find number is even or odd
+  ```
+       #include<stdio.h>
+int main()
+ {                                
+    int a;   
+   printf("Enter a number:");
+   scanf("%d",&a);
+ if(a%2==0)
+  printf("The  number is even\n");
+ else
+   printf("The number is odd\n");
+ }
+```
+**OUTPUT**:
+```
+Enter a number:6
+The  number is even
+```
+***OR***
+```
+Enter a number:9
+The number is odd
+```
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0ODAzNTMwLDU3Mjc0NjgwMywxNjg4Nz
+eyJoaXN0b3J5IjpbNTU3MDg3NjgzLDU3Mjc0NjgwMywxNjg4Nz
 MzMDI1LC0xMTU4Mzk0ODAxLC0xNzk3MjU3MjQ1LC01MTY3Mzk2
 NDgsLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxNDMzODAwOTI4LD
 cwMzc0OTkyOV19
