@@ -6,23 +6,30 @@
 
 
 # My C programes
-## 1:To print a table
-#include<stdio.h>
+## 3:To find sum of two numbers
+```
+
+     // to find sum of two numbers
+     #include<stdio.h>
 int main()
-{
-int a,b,c,d;
-printf("enter the starting no. and ending no. ");
-scanf("%d %d",&a,&b);
-for(c=a;c<=b;c++)
-{
-for(d=1;d<=10;d++)
-{
-printf("\n %d x %d=%d",c,d,c*d);
-}
-}
-return 0;
-}
+{                                                                                      
+ int a;
+ int b;
+ int c ;
+ printf("Enter two numbers to get sum:");
+ scanf("%d  %d",&a,&b);
+ printf(" \nThe result is :%d + %d= %d\n",a,b,c=a+b);
+    return 0;
+ }
+```
+**OUTPUT**:
+```
+Enter two numbers to get sum:45 55
+ 
+The result is :45 + 55= 100
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MD
-M3NDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTcyOTYyMjg3OSwtMTk2NjY4ODA4MywxND
+MzODAwOTI4LDcwMzc0OTkyOV19
 -->
