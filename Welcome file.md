@@ -217,11 +217,33 @@ enter the starting no. and ending no. 8 9
  9 x 9=81
  9 x 10=90
  ```
- 
+## 7:Sum and average of numbers
+```
+ // sum and average of number
+#include<stdio.h>
+  int main()
+ {                                 
+     int a,b,c,d,e,sum,avg;
+                                                               
+   printf("Enter five numbers:");
+   scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
+    sum = a+b+c+d+e;
+   printf("The sum is:%d\n",sum);
+   avg = sum/5;
+   printf("The average is:%d\n",avg);
+  }
+``` 
+**OUTPUT**:
+```
+Enter five numbers:1 2 3 4 5 
+The sum is:15
+The average is:3
+```
 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg3NDIxODksMTY4ODczMzAyNSwtMT
-E1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIy
-Nzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5Mj
-ldfQ==
+eyJoaXN0b3J5IjpbNTcyNzQ2ODAzLDE2ODg3MzMwMjUsLTExNT
+gzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjczOTY0OCwtMzYyMjc4
+NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX
+0=
 -->
