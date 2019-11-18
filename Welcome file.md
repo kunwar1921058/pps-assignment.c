@@ -43,6 +43,27 @@ int main()
  Hello world
 ```
 ## 3:to print face
+/
+#include<stdio.h>
+int a();
+int b();
+int c();
+int d();
+int main()
+{
+a();
+b();
+c();
+d();
+}
+int a()
+{
+puts(" GURU NANAK DEV ENGINEERING COLLEGE");
+}
+int b()
+{
+puts("DEPARTMENT OF INFORMATION TECHNOLOGY")
+}
 int c()
 {
 puts("___________________________");
@@ -59,6 +80,6 @@ int d()
 {
 puts("       KUNWAR ARORA");
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUwMjE2NzUsLTM2MjI3ODc0MiwtMT
+eyJoaXN0b3J5IjpbLTE1NTE2OTA4MzksLTM2MjI3ODc0MiwtMT
 k2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
 -->
