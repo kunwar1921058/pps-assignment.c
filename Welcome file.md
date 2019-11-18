@@ -537,34 +537,29 @@ RISKING IS BETTER THEN REGRATTING
 RISKING IS BETTER THEN REGRATTING
 RISKING IS BETTER THEN REGRATTING
 ```
-## 18:To find interest
+## 19:To show the size of int,float,char,double,long,short
 ```
+ // size of int, float, char, double, long, short
 #include<stdio.h>
 int main()
-{
-      float P,R,T,Interest;
-{
-      printf("\nEnter The Principle Amount:  ");
-      scanf("%f",&R);
-
-
-      printf("\nEnter The Interest Rate:  ");
-      scanf("%f",&R);
-
-      printf("\nEnter THe Time (in months):  ");
-      scanf("%f",&T);
-
-      Interest = P*R*T/100;
-
-      printf("\nSimple Interest is: = %.2f", Interest);
-
-}
-      return 0;
-}
+{                                   
+ printf("Integer:%d\n",sizeof(int));
+ printf("float:%d\n",sizeof(float));
+ printf("character:%d\n",sizeof(char));
+ printf("double:%d\n",sizeof(double));
+ printf("short:%d\n",sizeof(short));
+ printf("long:%d\n",sizeof(long));
+ }
 ```
-**OUTPUT:**
+**OUTPUT**:
 ```
-
+Integer:4
+float:4
+character:1
+double:8
+short:2
+long:8
+```
 
 
 
@@ -574,9 +569,9 @@ int main()
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNDMwODMsLTExNTM2Njc0MjcsMTc1NT
-c1NjIzOCw4MzkxMDQ4NSw1NzI3NDY4MDMsMTY4ODczMzAyNSwt
-MTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNj
-IyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5
-MjldfQ==
+eyJoaXN0b3J5IjpbLTIwNTg2NzM2MDMsNzgxNDMwODMsLTExNT
+M2Njc0MjcsMTc1NTc1NjIzOCw4MzkxMDQ4NSw1NzI3NDY4MDMs
+MTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMTc5NzI1NzI0NSwtNT
+E2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2ODgwODMsMTQzMzgw
+MDkyOCw3MDM3NDk5MjldfQ==
 -->
