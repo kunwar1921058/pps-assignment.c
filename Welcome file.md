@@ -43,7 +43,7 @@ int main()
  Hello world
 ```
 ## 3:to print face
-/
+/ / To print face
 #include<stdio.h>
 int a();
 int b();
@@ -79,7 +79,13 @@ puts("|____________|____________|");
 int d()
 {
 puts("       KUNWAR ARORA");
+}
+}
+```
+**OUTPUT:**
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE2OTA4MzksLTM2MjI3ODc0MiwtMT
-k2NjY4ODA4MywxNDMzODAwOTI4LDcwMzc0OTkyOV19
+eyJoaXN0b3J5IjpbLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOT
+Y2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
 -->
