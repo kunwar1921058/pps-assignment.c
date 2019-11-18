@@ -146,7 +146,7 @@ My phone number is 9988988833
 ## 5:To show area,perimeter,volume of square
 ```
    
- //Area,premiter,volume of square
+ / / Area,premiter,volume of square
   #include<stdio.h>
 void square();
 int main()
@@ -176,7 +176,7 @@ Volume of square:64
 ## 6:To print a table
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcyNTcyNDUsLTUxNjczOTY0OCwtMz
-YyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5
-OTI5XX0=
+eyJoaXN0b3J5IjpbLTExMzMxMTgxMTEsLTE3OTcyNTcyNDUsLT
+UxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4
+MDA5MjgsNzAzNzQ5OTI5XX0=
 -->
