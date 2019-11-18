@@ -176,10 +176,28 @@ Volume of square:64
 ```
 ## 6:To print a table
 ```
+#include<stdio.h>
+int main()
+{
+int a,b,c,d;
+printf("enter the starting no. and ending no. ");
+scanf("%d %d",&a,&b);
+for(c=a;c<=b;c++)
+{
+for(d=1;d<=10;d++)
+{
+printf("\n %d x %d=%d",c,d,c*d);
+}
+}
+return 0;
+}
+```
+**OUTPUT:**
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5NjgwODEsLTExNTgzOTQ4MDEsLT
-E3OTcyNTcyNDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2
-Njg4MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbMTY4ODczMzAyNSwtMTE1ODM5NDgwMSwtMT
+c5NzI1NzI0NSwtNTE2NzM5NjQ4LC0zNjIyNzg3NDIsLTE5NjY2
+ODgwODMsMTQzMzgwMDkyOCw3MDM3NDk5MjldfQ==
 -->
