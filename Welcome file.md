@@ -350,7 +350,7 @@ enter second number:10
 The result is:200.00
 ```
 
-## 12:
+## 12:Sum of two constants
 ```
 #include<stdio.h>
 int main()                                                                       
@@ -364,13 +364,14 @@ int main()
 **OUTPUT:**
 ```
 a=100
-a=120
+b=120
 Sum of a and b is :220
+```
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4MjUzNjMsNTcyNzQ2ODAzLDE2OD
-g3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjcz
-OTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5Mj
-gsNzAzNzQ5OTI5XX0=
+eyJoaXN0b3J5IjpbODM5MTA0ODUsNTcyNzQ2ODAzLDE2ODg3Mz
+MwMjUsLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLTUxNjczOTY0
+OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4MDA5MjgsNz
+AzNzQ5OTI5XX0=
 -->
