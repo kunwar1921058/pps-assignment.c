@@ -6,7 +6,7 @@
 
 
 # My C programes
-## 3:To find sum of two numbers
+## 1:To find sum of two numbers
 ```
 
      // to find sum of two numbers
@@ -28,8 +28,22 @@ Enter two numbers to get sum:45 55
  
 The result is :45 + 55= 100
 ```
+## 2:To print hello world
+
+```
+//To print  hello world
+#include<stdio.h>
+int main()
+{                     
+ printf("\nHello world\n");
+}
+```
+**OUTPUT:**
+``` 
+ Hello world
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTYyMjg3OSwtMTk2NjY4ODA4MywxND
+eyJoaXN0b3J5IjpbLTM2MjI3ODc0MiwtMTk2NjY4ODA4MywxND
 MzODAwOTI4LDcwMzc0OTkyOV19
 -->
