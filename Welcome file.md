@@ -100,7 +100,7 @@ ___________________________
 ## 4:To fill your information
 
 ```
-  // To fill your information
+  / /   To fill your information
 #include<stdio.h>
 
   void info();
@@ -176,7 +176,7 @@ Volume of square:64
 ## 6:To print a table
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzMxMTgxMTEsLTE3OTcyNTcyNDUsLT
+eyJoaXN0b3J5IjpbLTExNTgzOTQ4MDEsLTE3OTcyNTcyNDUsLT
 UxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4MDgzLDE0MzM4
 MDA5MjgsNzAzNzQ5OTI5XX0=
 -->
